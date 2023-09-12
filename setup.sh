@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Create the main directory
-mkdir my-website
+mkdir balabukha
 
 # Navigate into the main directory
-cd my-website
+cd balabukha
 
 # Create the index.html file
 touch index.html
